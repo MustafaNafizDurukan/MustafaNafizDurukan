@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Just a human</h3>
+<img align="right" alt="Coding" width=400 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pq0gx501oj9zsmm32gx43ncickt493heqib9euu5&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafanafizdurukan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafanafizdurukan" /> </p>
 
