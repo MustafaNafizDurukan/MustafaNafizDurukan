@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📝 I regularly write articles on [http://mustafadurukan.com/](http://mustafadurukan.com/)
+- 📝 I regularly write articles on [mustafanafizdurukan.github.io](mustafanafizdurukan.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
