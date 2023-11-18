@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/mustafandurukan" target="blank"><img src="https://img.shields.io/twitter/follow/mustafandurukan?logo=twitter&style=for-the-badge" alt="mustafandurukan" /></a> </p>
 
-- 🌱 I’m currently learning **Golang**
-
 - 📝 I regularly write articles on [mustafanafizdurukan.github.io](https://mustafanafizdurukan.github.io/)
 
 <h3 align="left">Connect with me:</h3>
