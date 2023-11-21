@@ -1,22 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Just a human</h3>
-<img align="right" alt="Coding" width=400 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pq0gx501oj9zsmm32gx43ncickt493heqib9euu5&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafanafizdurukan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafanafizdurukan" /> </p>
+<h1 align="center">Hi there! 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/mustafandurukan" target="blank"><img src="https://img.shields.io/twitter/follow/mustafandurukan?logo=twitter&style=for-the-badge" alt="mustafandurukan" /></a> </p>
+**👨🏻‍💻 About me:**
 
-- 📝 I regularly write articles on [mustafanafizdurukan.github.io](https://mustafanafizdurukan.github.io/)
+I am a security researcher, who has worked in various cybersecurity roles over the past 3 years. My main interests are OS internals, reverse engineering, kernel development, malware analysis, DFIR and exploit development. In my free time, I am working on projects in the areas of evasion, persistence and injection methods for both kernel mode and user mode and based on these projects I am publishing educational papers.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mustafandurukan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafandurukan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustafa-durukan-7678bb170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafa-durukan-7678bb170/" height="30" width="40" /></a>
-</p>
+📧 Feel free to contact me via [Twitter](twitter.com/mustafandurukan), [LinkedIn](linkedin.com/in/mustafa-durukan) or [mail](mailto:mdurukan79@gmail.com) regarding any of my projects or publications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafanafizdurukan&show_icons=true&locale=en&layout=compact" alt="mustafanafizdurukan" /></p>
+**💭 Currently working on:**
 
-<p><img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=mustafanafizdurukan&" alt="mustafanafizdurukan" /></p>
+- New projects
+- New papers
+
+<br />
+
+**📙 Currently learning:**
+
+- Windows Kernel Programming
+
+<br />
+
+**🌐 My blog posts:**
+
+- [From Userland to Kernel: Deep Dive into SYSCALLs using WinDbg and Binary Patching](https://mustafanafizdurukan.github.io/posts/deep-dive-syscall-using-binary-patching/)
+
+- [Decoding Malware Mysteries: A Deep Dive into Static, Dynamic, and Behavioral Analyses](https://mustafanafizdurukan.github.io/posts/decoding-malware-mysteries/)
+
+- [Unmasking Malware: From PowerShell Tactics to Sysmon Detection](https://mustafanafizdurukan.github.io/posts/unmasking-powershell-malware/)
+
+- [Windows Basic Concepts](https://mustafanafizdurukan.github.io/posts/windows-basic-concepts-part-1/)
+
+
+<br />
+
+<div align="center">
+  <h2 style="color:lightblue">⚒️ Programming Languages ⚒️</h2>
+    <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;&nbsp;&nbsp;
+    <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>&nbsp;&nbsp;&nbsp;
+    <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>&nbsp;&nbsp;&nbsp;
+    <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;
+    <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>&nbsp;&nbsp;&nbsp;
+</div>
+<br /><br />
+<h2 align="center" style="color:lightblue">📊 My stats 📊</h2><br />
+
+![Mustafa's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=MustafaNafizDurukan&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff)
+
+![Mustafa's Trophies](https://github-profile-trophy.vercel.app/?username=MustafaNafizDurukan&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=tokyonight&margin-w=15&margin-h=14)
