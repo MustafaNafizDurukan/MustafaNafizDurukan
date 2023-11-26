@@ -5,7 +5,7 @@
 
 I am a security researcher, who has worked in various cybersecurity roles over the past 3 years. My main interests are OS internals, reverse engineering, kernel development, malware analysis, DFIR and exploit development. In my free time, I am working on projects in the areas of evasion, persistence and injection methods for both kernel mode and user mode and based on these projects I am publishing educational papers.
 
-📧 Feel free to contact me via [Twitter](twitter.com/mustafandurukan), [LinkedIn](linkedin.com/in/mustafa-durukan) or [mail](mailto:mdurukan79@gmail.com) regarding any of my projects or publications.
+📧 Feel free to contact me via [Twitter](https://twitter.com/mustafandurukan), [LinkedIn](https://www.linkedin.com/in/mustafa-durukan/) or [mail](mailto:mdurukan79@gmail.com) regarding any of my projects or publications.
 
 <br />
 
