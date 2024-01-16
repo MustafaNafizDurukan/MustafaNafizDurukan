@@ -18,11 +18,13 @@ I am a security researcher, who has worked in various cybersecurity roles over t
 
 **📙 Currently learning:**
 
-- Windows Kernel Programming
+- Attack and Defense Active Directory 
 
 <br />
 
 **🌐 My blog posts:**
+
+- [Investigating a Suspicious PowerShell Script Execution](https://mustafanafizdurukan.github.io/posts/investigating-suspicious-powershell-execution/)
 
 - [From Userland to Kernel: Deep Dive into SYSCALLs using WinDbg and Binary Patching](https://mustafanafizdurukan.github.io/posts/deep-dive-syscall-using-binary-patching/)
 
