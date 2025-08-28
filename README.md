@@ -50,4 +50,3 @@ I am a security researcher, who has worked in various cybersecurity roles over t
 
 ![Mustafa's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=MustafaNafizDurukan&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff)
 
-![Mustafa's Trophies](https://github-profile-trophy.vercel.app/?username=MustafaNafizDurukan&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=tokyonight&margin-w=15&margin-h=14)
